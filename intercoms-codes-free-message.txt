@@ -1,1 +1,1 @@
-ProVersionMessage 30
+ProVersionMessage 500
