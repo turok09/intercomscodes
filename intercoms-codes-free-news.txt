@@ -1,4 +1,4 @@
-NewsNumber 2
+NewsNumber 1
 
 NewsTitle Акция
 
