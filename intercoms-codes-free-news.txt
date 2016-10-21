@@ -1,0 +1,7 @@
+﻿NewsNumber 1
+
+NewsTitle Акция
+
+NewsMessage Успейте приобрести Pro версию приложения по СУПЕРЦЕНЕ - 15 рублей. Торопитесь, акция действует по 18 октября 22:00 МСК. Приобрести прямо сейчас?
+
+NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
