@@ -1,3 +1,3 @@
-LastVersionName 2.2
+LastVersionName 2.1
 
-LastVersionCode 12
+LastVersionCode 11
