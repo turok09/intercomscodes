@@ -1,4 +1,4 @@
-NewsNumber 0
+NewsNumber 4
 
 NewsTitle Группа ВКонтакте
 
