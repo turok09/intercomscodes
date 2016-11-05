@@ -1,7 +1,7 @@
-NewsNumber 4
+NewsNumber 5
 
-NewsTitle Группа ВКонтакте
+NewsTitle Акция
 
-NewsMessage Подпишитесь на нашу группу ВКонтакте! Будьте в курсе новостей о нашем приложении, делитесь своими впечатлениями о новых версиях и участвуйте в конкурсах. Вступить в группу сейчас?
+NewsMessage Успейте приобрести Pro версию приложения по СУПЕРЦЕНЕ - 15 рублей. Спешите, акция завершится 5 ноября в 22:00 МСК. Приобрести прямо сейчас?
 
-NewsURL https://vk.com/intercomscodes
+NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
