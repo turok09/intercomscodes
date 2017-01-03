@@ -1,7 +1,7 @@
-NewsNumber 5
+NewsNumber 6
 
-NewsTitle Специальная акция
+NewsTitle Внимание, конкурс!
 
-NewsMessage На улице холодно, а вы стоите без ключей у подъезда? Не дайте себе замерзнуть! Согревающее предложение! Только сегодня Pro версия приложения всего за 15 рублей. Приобрести прямо сейчас?
+NewsMessage Хотите получить Pro версию приложения совершенно бесплатно? Сейчас у вас появилась уникальная возможность сделать это, приняв участие в нашем конкурсе. Узнать подробнее?
 
-NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
+NewsURL https://vk.com/intercomscodes
