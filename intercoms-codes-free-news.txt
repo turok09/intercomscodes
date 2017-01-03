@@ -4,4 +4,4 @@ NewsTitle Внимание, конкурс!
 
 NewsMessage Хотите получить Pro версию приложения совершенно бесплатно? Сейчас у вас появилась уникальная возможность сделать это, приняв участие в нашем конкурсе. Узнать подробнее?
 
-NewsURL https://vk.com/intercomscodes
+NewsURL https://vk.com/intercomscodes?w=wall-130857579_7
