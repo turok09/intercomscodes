@@ -1,7 +1,8 @@
-NewsNumber 6
+NewsNumber 7
 
-NewsTitle Внимание, конкурс!
+NewsTitle Закрытая распродажа
 
-NewsMessage Хотите получить Pro версию приложения совершенно бесплатно? Сейчас у вас появилась уникальная возможность сделать это, приняв участие в нашем конкурсе. Узнать подробнее?
+NewsMessage Начните год с удачной покупки! Успейте получить максимальную выгоду при покупке Pro версии. Внимание, распродажа действует только 26 января! Перейти в Google Play?
 
-NewsURL https://vk.com/intercomscodes?w=wall-130857579_7
+NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
+
