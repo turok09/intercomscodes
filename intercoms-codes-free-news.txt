@@ -1,8 +1,8 @@
-NewsNumber 7
+NewsNumber 8
 
 NewsTitle Закрытая распродажа
 
-NewsMessage Начните год с удачной покупки! Получите максимальную выгоду при покупке Pro версии. Внимание, распродажа действует только 26 января! Перейти в Google Play?
+NewsMessage Начните год с удачной покупки! Получите максимальную выгоду при покупке Pro версии. Внимание, распродажа действует только 31 января! Перейти в Google Play?
 
 NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
 
