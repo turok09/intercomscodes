@@ -1,9 +1,9 @@
-NewsNumber 10
+NewsNumber 11
 
-NewsTitle Закрытая распродажа
+NewsTitle Группа ВКонтакте
 
-NewsMessage Начните год с удачной покупки! Успейте получить отличную скидку при покупке Pro версии. Внимание, распродажа действует только 1 марта! Перейти в Google Play?
+NewsMessage Подпишитесь на нашу группу ВКонтакте! Будьте в курсе новостей о нашем приложении, делитесь своими впечатлениями о новых версиях и участвуйте в конкурсах. Вступить в группу сейчас?
 
-NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
+NewsURL https://vk.com/intercomscodes
 
 
