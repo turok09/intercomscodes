@@ -2,7 +2,7 @@ NewsNumber 13
 
 NewsTitle БОЛЬШАЯ РАСПРОДАЖА
 
-NewsMessage Не пропустите нашу МЕГАРАСПРОДАЖУ! Получите PRO ВЕРСИЮ приложения со СКИДКОЙ 90%. Перейти в Google Play?
+NewsMessage Не пропустите МЕГАРАСПРОДАЖУ! Получите PRO ВЕРСИЮ приложения со СКИДКОЙ 90%. Перейти в Google Play?
 
 NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
 
