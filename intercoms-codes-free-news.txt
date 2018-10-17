@@ -1,7 +1,7 @@
-NewsNumber 14
+NewsNumber 15
 
-NewsTitle Группа ВКонтакте
+NewsTitle Ограниченная распродажа
 
-NewsMessage Подпишитесь на нашу группу ВКонтакте! Будьте в курсе новостей о нашем приложении, делитесь своими впечатлениями о новых версиях и участвуйте в конкурсах. Вступить в группу сейчас?
+NewsMessage МЕГАРАСПРОДАЖА! Получите PRO ВЕРСИЮ приложения со СКИДКОЙ 70%. Всего 100 участников станут СЧАСТЛИВЫМИ обладателями PRO ВЕРСИИ. Перейти в Google Play?
 
-NewsURL https://vk.com/intercomscodes
+NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
