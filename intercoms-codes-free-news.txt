@@ -1,7 +1,7 @@
-NewsNumber 15
+NewsNumber 16
 
 NewsTitle Ограниченная распродажа
 
-NewsMessage Не пропустите МЕГАРАСПРОДАЖУ! Получите PRO ВЕРСИЮ приложения со СКИДКОЙ 70%. Всего 100 участников станут СЧАСТЛИВЫМИ обладателями PRO ВЕРСИИ. Перейти в Google Play?
+NewsMessage Наша МЕГАРАСПРОДАЖА закончилась! Поздравляем всех СЧАСТЛИВЫХ обладателей PRO ВЕРСИИ. Но это еще не все, следить за новостями о СЛЕДУЮЩИХ РАСПРОДАЖАХ в Google Play?
 
 NewsURL https://play.google.com/store/apps/details?id=ru.crazysoftware.intercomscodes
